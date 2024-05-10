@@ -44,9 +44,9 @@ Step 6: Open in RTL viewers to get RTL diagram output
 
 
 
-Developed by: ADARSH CHOWDARY R
+Developed by: SHEETAL.R
 
-RegisterNumber:212223040166
+RegisterNumber: 212223230206
 ```
 module T_FLIPFLOP( input clk, rst_n, input t,
 output reg q,
@@ -70,11 +70,13 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![Screenshot (73)](https://github.com/ADARSH778/T-FLIPFLOP-POSEDGE/assets/149347361/38a4a389-101b-4921-b85d-1bf256c10fa5)
+![image](https://github.com/Sheetalshee/T-FLIPFLOP-POSEDGE/assets/144979107/46584f74-31dd-4070-b0a3-4273d6dbdbb8)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![image](https://github.com/Sheetalshee/T-FLIPFLOP-POSEDGE/assets/144979107/86c4a682-e9bd-4a1d-aa53-ee2912a2d4be)
 
-![Screenshot (72)](https://github.com/ADARSH778/T-FLIPFLOP-POSEDGE/assets/149347361/0eef0cf9-55ab-4380-9ea7-b9d5f5875522)
+
 
 **RESULTS**
 
